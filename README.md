@@ -1,5 +1,7 @@
 I have collected a number of well-known optical journal submission templates, I hope to help you. Wish you a happy submission!
 
+
+If it works, please give me a star for encouragement！Thanks~ ^_^
 ---
 
 # Nature springer jourals
